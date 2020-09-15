@@ -1,0 +1,29 @@
+{
+  "name": "crud-nodejs-mysql",
+  "version": "1.0.0",
+  "description": "crud nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naufalkps/NodejsCRUD-Bootstrap.git"
+  },
+  "keywords": [
+    "crudnodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufalkps/NodejsCRUD-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/naufalkps/NodejsCRUD-Bootstrap#readme"
+}
